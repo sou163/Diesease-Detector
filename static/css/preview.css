@@ -1,0 +1,67 @@
+
+html,body{
+    display:grid;
+    height:100%;
+    place-items:center;
+    text-align:center;
+
+
+}
+.container{
+    height: 61px;
+    width: 460px;
+}
+
+.wrapper .image img{
+    
+    object-fit: cover;
+}
+
+.wrapper .image{
+    position:absolute;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+
+
+div#border{
+
+ border: 5px solid black; 
+align="center";
+ width="420" ;
+height="350";
+
+}
+
+
+div.experiment{
+font-family:Georgia, serif;
+font-size:25px;
+color: darkblue;
+    width : 400 px;
+    height: 50 px;
+    padding-top: 0px;
+         padding-bottom: 11px;
+         padding-left: 121px;
+         padding-right: 115px;
+    border: 5px solid black;
+    margin-bottom: 0px;
+    background-color: white;
+}
+
+div.baseline{
+    width: 400px;
+    height: 80px;
+    margin-top: 12px;
+    background-color: #000;
+    
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Times New Roman', sans-serif;
+}
+
