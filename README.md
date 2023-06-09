@@ -1,2 +1,2 @@
-# Diesease-Detector
-Detecting various diseases present in oranges using Deep Learning
+# Orange Fruit Diesease Detector
+Detecting three different types of diseases in oranges using Transfer Learning models - MobileNetV2 and VGG16. 
