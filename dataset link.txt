@@ -1,0 +1,4 @@
+Kaggle link for orange_classifier.ipynb - https://www.kaggle.com/datasets/soumyadeepnag/fruits-vegetables
+
+Kaggle link for disease_classifier.ipynb - 
+https://www.kaggle.com/datasets/jonathansilva2020/orange-diseases-dataset
